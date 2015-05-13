@@ -6,7 +6,8 @@
 
 #header
 {
-	background: #ccc;
+	background-color:#FFFF56;
+
 	padding: 20px;
 }
 
@@ -45,6 +46,7 @@
 
 #edito
 {
+	background-color:#56C5FF;
 	clear: left;
 	padding: 20px;
 	margin: 20px;
@@ -57,6 +59,7 @@
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
+
 	opacity: 0.83;
 }
 
@@ -69,6 +72,7 @@
 
 #news
 {	
+	background-color:#FFB439;
 	float: left;
 	width: 40%;
 	padding: 20px;
